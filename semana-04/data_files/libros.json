@@ -1,0 +1,122 @@
+[
+  {
+    "_id": 1,
+    "titulo": "El aleph",
+    "autor": { "nombre": "Jorge Luis Borges", "nacionalidad": "Argentina" },
+    "editorial": ["Siglo XXI", "Planeta"],
+    "precio": 20,
+    "cantidad": 50
+  },
+  {
+    "_id": 2,
+    "titulo": "Martin Fierro",
+    "autor": { "nombre": "Jose Hernandez", "nacionalidad": "Argentina" },
+    "editorial": ["Siglo XXI"],
+    "precio": 50,
+    "cantidad": 12
+  },
+  {
+    "_id": 3,
+    "titulo": "Aprenda PHP",
+    "autor": { "nombre": "Mario Molina", "nacionalidad": "Española" },
+    "editorial": ["Siglo XXI", "Planeta"],
+    "precio": 50,
+    "cantidad": 20
+  },
+  {
+    "_id": 4,
+    "titulo": "Java en 10 minutos",
+    "autor": { "nombre": "Barros Sergio", "nacionalidad": "Española" },
+    "editorial": ["Siglo XXI"],
+    "precio": 45,
+    "cantidad": 1
+  },
+  {
+    "_id": 5,
+    "titulo": "Don Quijote de la Mancha",
+    "autor": { "nombre": "Miguel de Cervantes", "nacionalidad": "Española" },
+    "editorial": ["Planeta", "Alfaguara"],
+    "precio": 35,
+    "cantidad": 30
+  },
+  {
+    "_id": 6,
+    "titulo": "Cien años de soledad",
+    "autor": { "nombre": "Gabriel Garcia Marquez", "nacionalidad": "Colombiana" },
+    "editorial": ["Sudamericana", "Planeta"],
+    "precio": 55,
+    "cantidad": 18
+  },
+  {
+    "_id": 7,
+    "titulo": "Rayuela",
+    "autor": { "nombre": "Julio Cortazar", "nacionalidad": "Argentina" },
+    "editorial": ["Alfaguara"],
+    "precio": 40,
+    "cantidad": 25
+  },
+  {
+    "_id": 8,
+    "titulo": "Aprenda Python desde cero",
+    "autor": { "nombre": "Ana Garcia", "nacionalidad": "Española" },
+    "editorial": ["Siglo XXI"],
+    "precio": 60,
+    "cantidad": 8
+  },
+  {
+    "_id": 9,
+    "titulo": "El nombre de la rosa",
+    "autor": { "nombre": "Umberto Eco", "nacionalidad": "Italiana" },
+    "editorial": ["Planeta"],
+    "precio": 48,
+    "cantidad": 14
+  },
+  {
+    "_id": 10,
+    "titulo": "Fundamentos de JavaScript",
+    "autor": { "nombre": "Carlos Perez", "nacionalidad": "Argentina" },
+    "editorial": ["Siglo XXI", "Planeta"],
+    "precio": 70,
+    "cantidad": 5
+  },
+  {
+    "_id": 11,
+    "titulo": "Ficciones",
+    "autor": { "nombre": "Jorge Luis Borges", "nacionalidad": "Argentina" },
+    "editorial": ["Emece"],
+    "precio": 22,
+    "cantidad": 40
+  },
+  {
+    "_id": 12,
+    "titulo": "La guerra del fin del mundo",
+    "autor": { "nombre": "Mario Vargas Llosa", "nacionalidad": "Peruana" },
+    "editorial": ["Alfaguara", "Planeta"],
+    "precio": 52,
+    "cantidad": 9
+  },
+  {
+    "_id": 13,
+    "titulo": "Introduccion a las Bases de Datos",
+    "autor": { "nombre": "Laura Fernandez", "nacionalidad": "Argentina" },
+    "editorial": ["Siglo XXI"],
+    "precio": 80,
+    "cantidad": 3
+  },
+  {
+    "_id": 14,
+    "titulo": "El tunel",
+    "autor": { "nombre": "Ernesto Sabato", "nacionalidad": "Argentina" },
+    "editorial": ["Sudamericana"],
+    "precio": 18,
+    "cantidad": 60
+  },
+  {
+    "_id": 15,
+    "titulo": "Base de datos con MongoDB",
+    "autor": { "nombre": "Diego Moisset", "nacionalidad": "Argentina" },
+    "editorial": ["Siglo XXI"],
+    "precio": 90,
+    "cantidad": 2
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "_id": 20456234,
+    "nombre": "Rodriguez Pablo",
+    "departamento": "Sistemas",
+    "salario": 85000,
+    "fechaingreso": { "$date": "2010-01-31T03:00:00.000Z" }
+  },
+  {
+    "_id": 17488834,
+    "nombre": "Gomez Ana",
+    "departamento": "Contabilidad",
+    "salario": 72000,
+    "fechaingreso": { "$date": "2001-12-01T03:00:00.000Z" }
+  },
+  {
+    "_id": 23463564,
+    "nombre": "Juarez Carla",
+    "departamento": "Recursos Humanos",
+    "salario": 68000,
+    "fechaingreso": { "$date": "2005-04-14T03:00:00.000Z" }
+  },
+  {
+    "_id": 31234567,
+    "nombre": "Lopez Mario",
+    "departamento": "Sistemas",
+    "salario": 95000,
+    "fechaingreso": { "$date": "2015-06-20T03:00:00.000Z" }
+  },
+  {
+    "_id": 28765432,
+    "nombre": "Perez Sandra",
+    "departamento": "Ventas",
+    "salario": 60000,
+    "fechaingreso": { "$date": "2018-03-05T03:00:00.000Z" }
+  },
+  {
+    "_id": 15678901,
+    "nombre": "Torres Miguel",
+    "departamento": "Sistemas",
+    "salario": 110000,
+    "fechaingreso": { "$date": "1999-08-15T03:00:00.000Z" }
+  },
+  {
+    "_id": 40987654,
+    "nombre": "Fernandez Laura",
+    "departamento": "Contabilidad",
+    "salario": 75000,
+    "fechaingreso": { "$date": "2008-11-10T03:00:00.000Z" }
+  },
+  {
+    "_id": 36543210,
+    "nombre": "Vargas Diego",
+    "departamento": "Ventas",
+    "salario": 55000,
+    "fechaingreso": { "$date": "2020-01-15T03:00:00.000Z" }
+  },
+  {
+    "_id": 22109876,
+    "nombre": "Castro Monica",
+    "departamento": "Recursos Humanos",
+    "salario": 70000,
+    "fechaingreso": { "$date": "2012-07-01T03:00:00.000Z" }
+  },
+  {
+    "_id": 44321098,
+    "nombre": "Herrera Juan",
+    "departamento": "Ventas",
+    "salario": 62000,
+    "fechaingreso": { "$date": "2017-09-22T03:00:00.000Z" }
+  }
+]

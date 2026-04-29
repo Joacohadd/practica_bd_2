@@ -1,0 +1,72 @@
+[
+  {
+    "_id": 20456123,
+    "apellido": "Gonzalez",
+    "nombre": "Ana",
+    "domicilio": "Colon 123",
+    "fechanacimiento": { "$date": "1990-08-15T03:00:00.000Z" }
+  },
+  {
+    "_id": 45123845,
+    "apellido": "Juarez",
+    "nombre": "Bernardo",
+    "domicilio": "Sucre 456",
+    "fechanacimiento": { "$date": "1964-01-01T03:00:00.000Z" }
+  },
+  {
+    "_id": 16567512,
+    "apellido": "Perez",
+    "nombre": "Laura",
+    "domicilio": "21 de Septiembre 3233",
+    "fechanacimiento": { "$date": "1972-04-02T03:00:00.000Z" }
+  },
+  {
+    "_id": 33456789,
+    "apellido": "Rodriguez",
+    "nombre": "Pablo",
+    "domicilio": "Rivadavia 789",
+    "fechanacimiento": { "$date": "1985-07-20T03:00:00.000Z" }
+  },
+  {
+    "_id": 28765432,
+    "apellido": "Fernandez",
+    "nombre": "Maria",
+    "domicilio": "San Martin 456",
+    "fechanacimiento": { "$date": "1998-11-30T03:00:00.000Z" }
+  },
+  {
+    "_id": 41234567,
+    "apellido": "Lopez",
+    "nombre": "Carlos",
+    "domicilio": "Dean Funes 321",
+    "fechanacimiento": { "$date": "1975-03-10T03:00:00.000Z" }
+  },
+  {
+    "_id": 19876543,
+    "apellido": "Martinez",
+    "nombre": "Sofia",
+    "domicilio": "Belgrano 654",
+    "fechanacimiento": { "$date": "2001-05-18T03:00:00.000Z" }
+  },
+  {
+    "_id": 37654321,
+    "apellido": "Torres",
+    "nombre": "Diego",
+    "domicilio": "Mitre 987",
+    "fechanacimiento": { "$date": "1968-09-25T03:00:00.000Z" }
+  },
+  {
+    "_id": 24567890,
+    "apellido": "Vargas",
+    "nombre": "Lucia",
+    "domicilio": "Sarmiento 147",
+    "fechanacimiento": { "$date": "1993-12-05T03:00:00.000Z" }
+  },
+  {
+    "_id": 52345678,
+    "apellido": "Herrera",
+    "nombre": "Juan",
+    "domicilio": "Corrientes 258",
+    "fechanacimiento": { "$date": "1960-06-14T03:00:00.000Z" }
+  }
+]
